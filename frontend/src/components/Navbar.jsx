@@ -63,7 +63,7 @@ const Navbar = () => {
                     bg-clip-text text-transparent
                   "
                 >
-                  Chatty
+                  ChatSync
                 </h1>
 
                 {authUser && (
