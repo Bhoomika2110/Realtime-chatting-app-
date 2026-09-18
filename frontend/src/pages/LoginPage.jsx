@@ -94,7 +94,7 @@ const LoginPage = () => {
               </div>
 
               <h1 className="text-2xl sm:text-3xl font-bold tracking-tight">
-                Sign in to Chatty
+                Sign in to ChatSync
               </h1>
 
               <p className="mt-2 text-sm text-base-content/50">
