@@ -70,7 +70,7 @@ const LoginPage = () => {
                   bg-clip-text text-transparent
                 "
               >
-                Chatty
+                ChatSync
               </span>
             </Link>
           </div>
